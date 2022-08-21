@@ -3,14 +3,18 @@
 
 ## Description
 
-Awwards is an application that allows users to sign in .
+Django aunthentication is an application that allows users to register, sign in and sign out of an app.
 
 ## Dependency installation process
 
 pip install -r requirements.txt
 
 ## Running the application
-to view the website run the command
+to navigate through the website  clone the repo  below
+
+https://github.com/Kelvin-Wepo/Django-Authentication 
+
+Run the command below
 
 python3 manage.py runserver
 
@@ -18,9 +22,9 @@ python3 manage.py runserver
 Kelvin wepo
 
 ## Technology Used
-* python
-* HTML
-* CSS
+* Django
+* Bootstrap
+* Python
 
 ## Contact Information
 Email = kelvinwepo1234@gmail.com
