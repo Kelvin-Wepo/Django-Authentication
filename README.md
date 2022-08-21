@@ -34,7 +34,9 @@ Awwards is an application that allows a user to post a project he/she has create
 pip install -r requirements.txt
 
 ## Running the application
-to view the website run the command
+to view the website  clone this repo https://github.com/Kelvin-Wepo/Django-Authentication
+
+run the command
 
 python3 manage.py runserver
 
@@ -42,12 +44,12 @@ python3 manage.py runserver
 Kelvin wepo
 
 ## Technology Used
-* python
-* HTML
-* CSS
+* Django
+* Bootstrap
+* Python
 
 ## Contact Information
-Email = kelvinwepo1234@gmail.com
+Email = kelvinwepo7710@gmail.com
 Phone-number = +2547 99489045
 
 
