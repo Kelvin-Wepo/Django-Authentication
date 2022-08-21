@@ -1,1 +1,1 @@
-web: gunicorn wangaapp.wsgi --log-file -
+web: gunicorn authentication.wsgi --log-file -
