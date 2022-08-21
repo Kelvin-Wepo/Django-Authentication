@@ -1,1 +1,1 @@
-web: gunicorn wangaapp.wsgi
+web: gunicorn myapp.wsgi
